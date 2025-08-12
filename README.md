@@ -1,4 +1,4 @@
-# [Project Title]
+# [SwiftTrustLedger]
 
 ## Team Members
 - [Name 1]
